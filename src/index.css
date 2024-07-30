@@ -1,0 +1,15 @@
+::-webkit-scrollbar-track {
+    width: 10px;
+}
+
+::-webkit-scrollnar-track {
+    background: #1a1a24;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #3f3f40;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
